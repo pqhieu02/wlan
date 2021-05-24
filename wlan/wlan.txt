@@ -7,7 +7,7 @@ SSID 1 : NSA Surveillance Unit
     Authentication          : WPA2-Personal
     Encryption              : CCMP 
     BSSID 1                 : 50:c7:bf:18:36:70
-         Signal             : 96%  
+         Signal             : 97%  
          Radio type         : 802.11n
          Channel            : 1 
          Basic rates (Mbps) : 1 2 5.5 11
